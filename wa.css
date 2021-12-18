@@ -1,0 +1,42 @@
+body{
+    margin: 20px;
+    background-color: papayawhip;
+}
+h2{
+  color: rgb(0, 0, 0);  
+text-align: center;
+}
+
+.we {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px 10%;
+  }
+  
+  .bois h4 {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 1em;
+    margin: 1px 0 0 0 ;
+    font-weight: bolder;
+    padding: 5px;
+  }
+  
+  .bois img {
+    border-radius: 50px;
+    box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
+  }
+  #wen {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px 10%
+  }
+  #wen img{
+    border-radius: 50px;
+    box-shadow: 5px 5px 3px 1px rgba(0, 0, 0, 0.7);
+  }
+  #wen h4{
+    text-align: center;
+  }
