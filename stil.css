@@ -1,0 +1,51 @@
+
+body{
+  margin: 0;
+  padding: 0;   
+}
+nav
+{ 
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    float: right;
+    display: block;
+
+}
+.crumbs {
+    background-color:black ;
+    top:0;
+    width:100%;
+    list-style: none;
+   float :left
+}
+ 
+#texte {
+    
+    color: white;
+    list-style: none;
+    text-align:center;
+    text-transform: initial;
+    font-size: 2em;
+  margin-top: -40px;
+  padding-top: -40px;
+      
+}
+#sites{ margin-top: 50px;
+    padding-top: 50px;
+    text-align: center;
+   
+}
+
+
+section img{
+    border-radius: 100%;
+}
+p {
+    text-align: justify;
+    font-size: 1em;
+    font-style: arial;
+    margin: 10px;
+    padding: 10px;
+}
+
